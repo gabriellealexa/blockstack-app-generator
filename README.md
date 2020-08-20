@@ -19,7 +19,7 @@
     | React | `npx generator-blockstack --react` |
     | Vue | `npx generator-blockstack --vue` |
 
-    Then, install Stacks 2.0 transactions using:
+  At least for React, you will have to install Stacks 2.0 transactions using:
     
     ```bash
     npm install @blockstack/stacks-transactions
