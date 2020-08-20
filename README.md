@@ -24,9 +24,9 @@
     ```bash
     npm install @blockstack/stacks-transactions
     ```
+  
    
-   
-    For additional options run `npx generator-blockstack --help`.
+   For additional options run: `npx generator-blockstack --help`.
 
     > Alternatively, global package installation can be used. Try this if running into problems:
     > ```
